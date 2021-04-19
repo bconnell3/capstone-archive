@@ -1,0 +1,185 @@
+/* Checkout */
+.woocommerce-SavedPaymentMethods-saveNew {
+    display: none;
+    /* Hidden as there are no accounts at the moment */
+}
+
+.woocommerce-checkout .woocommerce {
+    .woocommerce-shipping-methods label {
+        display: block;
+    }
+}
+
+.woocommerce_checkout_coupon {
+    width: 80%;
+    max-width: 800px;
+    background-color: $soft-pink;
+    margin: 0 auto 1.5rem;
+    text-align: center;
+    font-size: 1rem;
+    color: $dark-grey;
+    .woocommerce-info {
+        padding: 1rem;
+        a {
+            text-decoration: underline;
+        }
+    }
+}
+
+.wc_payment_methods {
+    background-color: $soft-pink;
+    padding: 0.5rem 1rem;
+    max-width: 500px;
+    margin: 0 auto;
+    li {
+        margin-bottom: 1rem;
+    }
+}
+
+.woocommerce-billing-fields,
+.woocommerce-additional-fields,
+.wpmc-step-payment {
+    max-width: 800px;
+    margin: 1.25rem auto 0;
+    p, label {
+        max-width: none;
+        width: auto;
+    }
+    p {
+        margin: 0;
+    }
+}
+
+.woocommerce-input-wrapper .input-text {
+    width: 100%;
+}
+
+.select2-container--default .select2-selection--single {
+    border: 1px solid $dark-grey;
+    &:hover {
+        border: 1px solid darken($dark-grey, 10);
+    }
+}
+
+
+.selection {
+    >span {
+        padding: 0.4rem 0;
+    }
+}
+
+.select2-container .select2-selection--single {
+    height: 2.625rem;
+    width: 100%;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 2.625rem;
+}
+
+.wpmc-nav-wrapper {
+    max-width: 600px;
+    margin: 1.5rem auto 0;
+    flex-wrap: wrap;
+    .button {
+        margin: 0;
+    }
+}
+
+button#wpmc-back-to-cart {
+    margin-bottom: 0.5rem;
+    flex: 0 0 100%; /* flex-grow, flex-shrink, flex-basis */
+}
+
+#wpmc-next {
+    margin-left: auto;
+}
+
+#place_order {
+    width: 200px;
+}
+
+abbr {
+    text-decoration: none;
+}
+
+.optional {
+    font-size: 0.875rem;
+}
+
+.woocommerce-input-wrapper select {
+    height: 2.625rem;
+    width: 100%;
+    font-size: clamp(0.875rem, 2.25vw, 1.125rem);
+    color: $dark-grey;
+    border: 1px solid $dark-grey;
+    border-radius: 0.25rem;
+    outline: none;
+    option {
+        font-size: clamp(0.875rem, 2.25vw, 1.125rem);
+        color: $dark-grey;
+    }
+}
+
+/* Order Comments / Notes */
+#order_comments {
+    outline: none;
+    width: 100%;
+    height: 14rem;
+}
+
+// Terms and Conditions
+.woocommerce-terms-and-conditions-wrapper {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.woocommerce-privacy-policy-text,
+.woocommerce-terms-and-conditions {
+    margin-bottom: 0.5rem;
+}
+
+// Paypal Payment
+.payment_method_paypal {
+    img {
+        margin-top: 1rem;
+        width: 14rem;
+    }
+}
+
+// What is PayPal? Button
+.about_paypal {
+    margin: 1rem 0;
+    &:hover {
+        font-weight: 700;
+        background: $soft-pink;
+    }
+}
+
+.woocommerce-privacy-policy-link {
+    color: darken($dark-grey, 10);
+}
+
+.woocommerce-checkout #payment ul.payment_methods li img.stripe-icon {
+    display: inline;
+    margin: 0.5rem 0.5rem -0.5rem 0.5rem;
+}
+
+.wc-credit-card-form {
+    margin-top: 1rem;
+}
+
+.wc-credit-card-form p.form-row {
+    text-align: center;
+}
+
+@mixin checkout-buttons {
+    button#wpmc-back-to-cart {
+        margin: 0 auto 0 0;
+        flex: 0 0 144px; /* flex-grow, flex-shrink, flex-basis */
+    }
+
+    #wpmc-next {
+        margin-left: 0.3rem;
+    }
+}

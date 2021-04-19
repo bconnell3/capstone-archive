@@ -1,0 +1,101 @@
+.continue-shopping {
+    width: 18rem;
+}
+
+.attachment-woocommerce_thumbnail {
+    border-radius: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.woocommerce-Reviews {
+    p {
+        color: $dark-grey;
+    }
+    .meta {
+        margin: 0;
+    }
+    .comment-reply-title {
+        color: $dark-grey;
+        display: block;
+    }
+    p,
+    .comment-reply-title,
+    .comment-form {
+        margin: 1.5rem 0 0 0;
+    }
+    .description p {
+        margin: 0.5rem 0 0 0;
+    }
+}
+
+.comment_container {
+    display: grid;
+    grid-template-columns: 4rem 1fr;
+    gap: 1.5rem;
+}
+
+.commentlist {
+    margin: 1.5rem 0 0 0;
+}
+
+.avatar {
+    width: 4rem;
+    height: 4rem;
+}
+
+// span.onsale {
+//     position: absolute;
+//     top: -1rem;
+//     left: -1rem;
+//     background-color: darken($soft-pink, 5);
+//     width: 3rem;
+//     height: 3rem;
+//     font-size: 1rem;
+//     color: $dark-grey;
+//     border-radius: 50%;
+//     line-height: 3rem;
+//     text-align: center;
+// }
+
+span.onsale {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: darken($soft-pink, 5);
+    width: 50%;
+    height: 3rem;
+    font-size: 1rem;
+    color: #565656;
+    border-bottom-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    line-height: 3rem;
+    text-align: center;
+}
+
+/* Breadcrumbs Margin */
+.woocommerce-breadcrumb {
+    margin-bottom: 0.5rem;
+}
+
+/* Notices wrapper for Woo Pages */
+
+div.woocommerce-notices-wrapper {
+    width: 80%;
+    max-width: 800px;
+    background-color: $soft-pink;
+    margin: 1.5rem auto 0;
+    text-align: center;
+    font-size: 1rem;
+    color: $dark-grey;
+    div {
+        padding: 1rem;
+        a {
+            margin-top: 0;
+        } 
+    }
+    .cart-empty {
+        margin: 0;
+        padding-bottom: 1rem;
+    }   
+}

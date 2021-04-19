@@ -1,0 +1,122 @@
+2021-04-13T23:43:56+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606a27d854a0e
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ee98e40730
+            [name] => LettersByCataCo
+            [domain] => https://lettersbycataco.com
+            [email_address] => lettersbycataco@gmail.com
+            [currency_code] => CAD
+            [money_format] => $
+            [primary_locale] => en_CA
+            [timezone] => -07:00
+            [phone] => 7806044659
+            [address] => Array
+                (
+                    [address1] => 4359 184th Street
+                    [city] => Edmonton
+                    [province] => AB
+                    [postal_code] => T5J 2R4
+                    [country] => CA
+                    [country_code] => CA
+                    [phone] => 7806044659
+                    [company] => LettersByCataCo
+                )
+
+        )
+
+)
+
+2021-04-13T23:44:00+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606a27d854a0e
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ee98e40730
+            [name] => LettersByCataCo
+            [domain] => https://lettersbycataco.com
+            [email_address] => lettersbycataco@gmail.com
+            [currency_code] => CAD
+            [money_format] => $
+            [primary_locale] => en_CA
+            [timezone] => -07:00
+            [phone] => 7806044659
+            [address] => Array
+                (
+                    [address1] => 4359 184th Street
+                    [city] => Edmonton
+                    [province] => AB
+                    [postal_code] => T5J 2R4
+                    [country] => CA
+                    [country_code] => CA
+                    [phone] => 7806044659
+                    [company] => LettersByCataCo
+                )
+
+        )
+
+)
+
+2021-04-13T23:44:03+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 606a27d854a0e
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => ee98e40730
+            [name] => LettersByCataCo
+            [domain] => https://lettersbycataco.com
+            [email_address] => lettersbycataco@gmail.com
+            [currency_code] => CAD
+            [money_format] => $
+            [primary_locale] => en_CA
+            [timezone] => -07:00
+            [phone] => 7806044659
+            [address] => Array
+                (
+                    [address1] => 4359 184th Street
+                    [city] => Edmonton
+                    [province] => AB
+                    [postal_code] => T5J 2R4
+                    [country] => CA
+                    [country_code] => CA
+                    [phone] => 7806044659
+                    [company] => LettersByCataCo
+                )
+
+        )
+
+)
+
+2021-04-13T23:44:05+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Tue, Apr 13, 2021 11:44 PM
+2021-04-13T23:44:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-04-13T23:44:17+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-04-13T23:44:17+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-04-13T23:44:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-04-13T23:44:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-04-13T23:44:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 163
+2021-04-13T23:44:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 867
+2021-04-13T23:44:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 868
+2021-04-13T23:44:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 869
+2021-04-13T23:44:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 169
+2021-04-13T23:44:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 31
+2021-04-13T23:44:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 152
+2021-04-13T23:44:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 158
+2021-04-13T23:44:20+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-04-13T23:44:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #163
+2021-04-13T23:44:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #867
+2021-04-13T23:44:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #868
+2021-04-13T23:44:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #869
+2021-04-13T23:44:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #169
+2021-04-13T23:44:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #31
+2021-04-13T23:44:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #152
+2021-04-13T23:44:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #158
+2021-04-13T23:44:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-04-13T23:44:29+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-04-13T23:45:36+00:00 NOTICE sync.completed :: Finished Sync :: Tue, Apr 13, 2021 11:45 PM (total time: 00:01:31)

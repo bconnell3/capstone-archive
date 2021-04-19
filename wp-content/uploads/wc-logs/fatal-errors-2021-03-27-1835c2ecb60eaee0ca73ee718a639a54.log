@@ -1,0 +1,246 @@
+2021-03-27T20:35:05+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:35:17+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:35:22+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:35:25+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:35:26+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:35:45+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:36:06+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:37:06+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:37:19+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:37:26+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:06+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:13+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:29+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:29+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:31+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:31+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:31+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:31+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:32+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:33+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:33+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:41+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:51+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:38:59+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin.php(34): require_once('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-admin/edit.php(10): require_once('/home/lettersby...')
+#5 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:39:00+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:39:04+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin.php(34): require_once('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-admin/post.php(12): require_once('/home/lettersby...')
+#5 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+
+2021-03-27T20:39:14+00:00 CRITICAL Uncaught Error: Call to undefined function acf_add_local_field_group() in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:269
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin.php(34): require_once('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-admin/index.php(10): require_once('/home/lettersby...')
+#5 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 269
+

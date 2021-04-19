@@ -1,0 +1,89 @@
+2021-03-28T02:26:21+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:411
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-blog-header.php(13): require_once('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/index.php(17): require('/home/lettersby...')
+#5 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 411
+
+2021-03-28T02:27:31+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:411
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 411
+
+2021-03-28T02:27:46+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:412
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-blog-header.php(13): require_once('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/index.php(17): require('/home/lettersby...')
+#5 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 412
+
+2021-03-28T02:27:49+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:412
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-blog-header.php(13): require_once('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/index.php(17): require('/home/lettersby...')
+#5 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 412
+
+2021-03-28T02:28:17+00:00 CRITICAL Uncaught Error: Call to a member function is_type() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:412
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include()
+#1 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-admin/admin-ajax.php(22): require_once('/home/lettersby...')
+#4 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 412
+
+2021-03-28T03:54:05+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 481
+
+2021-03-28T03:54:22+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 481
+
+2021-03-28T21:18:17+00:00 CRITICAL syntax error, unexpected '}' in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 431
+
+2021-03-28T21:35:12+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:549
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-includes/class-wp-hook.php(294): sale_price_check('<span class="wo...')
+#1 /home/lettersbycata/public_html/lettersbycata/wp-includes/plugin.php(212): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/woocommerce/cart/cart.php(75): apply_filters('woocommerce_car...', '<span class="wo...', Array, 'dd45045f8c68db9...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#5 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/clas in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 549
+
+2021-03-28T21:35:42+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:549
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-includes/class-wp-hook.php(294): sale_price_check('<span class="wo...')
+#1 /home/lettersbycata/public_html/lettersbycata/wp-includes/plugin.php(212): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/woocommerce/cart/cart.php(75): apply_filters('woocommerce_car...', '<span class="wo...', Array, 'dd45045f8c68db9...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#5 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/clas in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 549
+
+2021-03-28T21:37:21+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on null in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:550
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-includes/class-wp-hook.php(294): sale_price_check('<span class="wo...')
+#1 /home/lettersbycata/public_html/lettersbycata/wp-includes/plugin.php(212): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/woocommerce/cart/cart.php(75): apply_filters('woocommerce_car...', '<span class="wo...', Array, 'dd45045f8c68db9...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#5 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/clas in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 550
+
+2021-03-28T21:42:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function sale_price_check(), 1 passed in /home/lettersbycata/public_html/lettersbycata/wp-includes/class-wp-hook.php on line 294 and exactly 3 expected in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php:544
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-includes/class-wp-hook.php(294): sale_price_check('<span class="wo...')
+#1 /home/lettersbycata/public_html/lettersbycata/wp-includes/plugin.php(212): WP_Hook->apply_filters('<span class="wo...', Array)
+#2 /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/woocommerce/cart/cart.php(75): apply_filters('woocommerce_car...', '<span class="wo...', Array, 'dd45045f8c68db9...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart. in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 544
+

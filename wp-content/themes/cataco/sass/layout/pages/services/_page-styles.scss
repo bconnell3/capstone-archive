@@ -1,0 +1,37 @@
+.service {
+    margin: 1.5rem 1.5rem 0;
+    h3 {
+        margin-top: 1.5rem;
+    }
+    h3, p {
+        text-align: center;
+    }
+}
+
+@mixin services-medium-view {
+    .service {
+        display: flex;
+        justify-content: space-around;
+        align-items: start;
+        h3 {
+            margin-top: 0;
+        }
+        p {
+            width: 40ch;
+        }
+        h3, p {
+            text-align: left;
+        }
+        .thumbnail {
+            margin: 0;
+        }
+    }
+}
+
+@mixin services-large-view {
+    .service {
+        p {
+            width: 55ch;
+        }
+    }
+}

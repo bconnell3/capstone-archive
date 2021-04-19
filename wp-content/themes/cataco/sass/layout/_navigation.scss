@@ -1,0 +1,147 @@
+/* Navigation */
+
+header {
+    .inner-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        position: relative;
+        padding: 1rem;
+    }
+
+    .flex{
+        display: flex;
+        align-items: center;
+    }
+}
+
+.logo {
+    width: 12rem;
+    height: 2.5rem;
+    margin-right: auto;
+}
+
+svg.svg-inline--fa.fa-bars.fa-w-14, svg path {
+    cursor: pointer;
+}
+
+.cart-icon,
+.toggle-icon-open,
+.toggle-icon-open svg,
+.toggle-icon-close svg {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.cart-icon,
+.toggle-icon-open,
+.toggle-icon-close {
+    fill: $dark-grey;
+    &:hover {
+        fill: darken($dark-grey, 10);
+    }
+}
+
+.toggle-icon-close svg {
+    margin: 1rem 1rem 0 0;
+}
+
+.toggle-icon-open,
+.cart {
+    margin-left: 1rem;
+}
+
+.cart {
+    position: relative;
+    &:hover .cart-count {
+        background-color: darken($soft-pink, 10);
+    }
+}
+
+.cart-count {
+    position: absolute;
+    top: -0.5rem;
+    right: -0.5rem;
+    width: 1.5625rem;
+    height: 1.5625rem;
+    line-height: 1.5625rem;
+    font-size: 0.7rem;
+    text-align: center;
+    border-radius: 50%;
+    background-color: darken($soft-pink, 5);
+    color: $dark-grey;
+}
+
+.toggle-icon-close {
+    text-align: end;
+    width: 100%;
+}
+
+.main-menu a {
+    display: block;
+    padding: 0.5rem;
+    text-transform: uppercase;
+    color: $dark-grey;
+    margin-bottom: 1rem;
+}
+
+header nav {
+    width: 100%;
+    text-align: center;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+    background-color: $soft-pink;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+.show-nav {
+    max-height: 40rem;
+    padding: 0 0 1rem;
+}
+
+.main-menu .current_page_item a,
+.main-menu a:hover,
+.menu .current_page_item a,
+.menu a:hover {
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.main-menu .current_page_item a,
+.main-menu a:active {
+  font-weight: 700;
+}
+
+@mixin navbar-desktop {
+    header .inner-container {
+        padding: 1rem 2rem;
+    }
+
+    .toggle-icon-open,
+    .toggle-icon-close {
+        display: none;
+    }
+
+    .main-menu {
+        display: flex;
+        align-items: center;
+        li {
+            margin-right: 1rem;
+        }
+        a {
+            margin: 0;
+        }
+    }
+    
+    header nav {
+        position: static;
+        width: auto;
+        max-height: 18rem;
+        background-color: transparent;
+        display: flex;
+        align-items: center;
+    }
+}

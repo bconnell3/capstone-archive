@@ -1,0 +1,30 @@
+.gallery {
+    padding: 0 1.5rem;
+}
+
+.gallery span {
+    margin: 0.5rem 0 0 0;
+    font-size: 0.875rem;
+    text-align: center;
+    display: block;
+}
+
+/* Masonry Layout */
+
+.gallery-image {
+    margin-bottom: 1.5rem;
+}
+
+@mixin gallery-medium-view {
+    .gallery {
+        column-count: 2;
+        column-gap: 4%;
+    }
+}
+
+@mixin gallery-large-view {
+    .gallery {
+        column-count: 3;
+        column-gap: 3%;
+    }
+}

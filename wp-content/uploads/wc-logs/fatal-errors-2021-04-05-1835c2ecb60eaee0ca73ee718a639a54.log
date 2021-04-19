@@ -1,0 +1,17 @@
+2021-04-05T04:10:06+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 543
+
+2021-04-05T04:10:43+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 543
+
+2021-04-05T04:11:21+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 543
+
+2021-04-05T04:32:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 376 and at least 2 expected in /home/lettersbycata/public_html/lettersbycata/wp-includes/plugin.php:590
+Stack trace:
+#0 /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php(376): remove_action('woocommerce_sho...')
+#1 /home/lettersbycata/public_html/lettersbycata/wp-settings.php(528): include('/home/lettersby...')
+#2 /home/lettersbycata/public_html/lettersbycata/wp-config.php(90): require_once('/home/lettersby...')
+#3 /home/lettersbycata/public_html/lettersbycata/wp-load.php(37): require_once('/home/lettersby...')
+#4 /home/lettersbycata/public_html/lettersbycata/wp-blog-header.php(13): require_once('/home/lettersby...')
+#5 /home/lettersbycata/public_html/lettersbycata/index.php(17): require('/home/lettersby...')
+#6 {main}
+  thrown in /home/lettersbycata/public_html/lettersbycata/wp-includes/plugin.php on line 590
+

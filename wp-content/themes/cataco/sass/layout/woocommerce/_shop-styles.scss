@@ -1,0 +1,124 @@
+.etsy-plug p {
+    text-align: center;
+}
+
+div.woocommerce-message{
+    background-color: $white;
+}
+
+ul.products {
+    margin: 1.25rem 0 0 0;
+    display: grid;
+    grid-gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    .product {
+        margin: 0.5rem auto 0;
+        max-width: 300px;
+        width: 250px;
+        position: relative;
+        &-title {
+            text-align: center;
+            width: 90%;
+            margin: 1.25rem auto 0;
+        }
+        .amount {
+            color: $dark-grey;
+            font-size: 1.125rem;
+            margin-left: 0.675rem;
+        }
+    }
+}
+
+.shop-pricing {
+    &.sale {
+        .regular-price {
+            text-decoration: line-through;
+        }
+        .sale-price {
+            color: #21880C;
+        }
+    }
+    p {
+        margin: 0.5rem 0 0 0;
+        text-align: center;
+        font-size: clamp(1rem, 3vw, 1.25rem);
+    }
+}
+
+.short-description {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+    text-align: center;
+    font-size: 0.875rem;
+    width: 90%;
+    margin: 1.5rem auto;
+}
+
+.country-abbreviation {
+    font-weight: bold;
+}
+
+/* Pagination */
+
+.woocommerce-pagination {
+    width: 100%;
+    ul.page-numbers {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        li {
+            margin: 0 0.5rem;
+            width: 3rem;
+            height: 3rem;
+            line-height: 3rem;
+            font-size: 1rem;
+            font-weight: 700;
+            border-radius: 50%;
+            text-align: center;
+            a {
+                width: 3rem;
+                height: 3rem;
+                display: block;
+                color: lighten($dark-grey, 15);
+            }
+        }
+        .current {
+            color: darken($soft-pink, 20);
+        }
+    }
+}
+
+@mixin shop-pricing {
+    .shop-pricing p {
+        margin: 0.5rem auto 0;
+    }
+}
+
+@mixin shop-large-screen {
+    .filter-sidebar {
+        padding: 0;
+    }
+
+    .filter-flex {
+        display: none;
+    }
+
+    .filters {
+        max-height: 100rem;
+        margin-left: 0;
+    }
+    .shop-container {
+        display: grid;
+        grid-template-columns: 1fr 3fr;
+        gap: 1.5rem;
+    }
+    .woocommerce-pagination {
+        grid-column: span 1 / -1;
+    }
+    .woocommerce-notices-wrapper {
+        grid-column: 1 / -1;
+        grid-row: 1 / 1;
+    }
+}

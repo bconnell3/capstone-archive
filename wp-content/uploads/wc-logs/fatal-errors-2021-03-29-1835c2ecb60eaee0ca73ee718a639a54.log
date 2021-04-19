@@ -1,0 +1,6 @@
+2021-03-29T01:25:48+00:00 CRITICAL syntax error, unexpected 'the' (T_STRING) in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 414
+
+2021-03-29T01:31:34+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 415
+
+2021-03-29T01:33:19+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/lettersbycata/public_html/lettersbycata/wp-content/themes/cataco/functions.php on line 416
+

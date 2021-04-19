@@ -1,0 +1,25 @@
+2021-04-15T19:53:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 169
+2021-04-15T19:53:55+00:00 NOTICE product_submit.success :: updateStoreProduct :: #169
+2021-04-15T20:25:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1090
+2021-04-15T20:25:06+00:00 NOTICE debug :: Order ID 1090 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://lettersbycataco.com/favicon.ico
+        )
+
+)
+
+2021-04-15T20:26:33+00:00 NOTICE order.member.updated :: Updated williampomroy03@gmail.com subscriber status to transactional and language to en
+2021-04-15T20:26:33+00:00 NOTICE order_submit.success :: addStoreOrder :: #1090 :: email: williampomroy03@gmail.com :: landing site https://lettersbycataco.com/favicon.ico
+2021-04-15T20:27:38+00:00 NOTICE debug :: Order ID 1090 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-04-15T20:27:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1090
+2021-04-15T20:30:12+00:00 NOTICE order.member.updated :: Updated williampomroy03@gmail.com subscriber status to transactional and language to 
+2021-04-15T20:30:12+00:00 NOTICE order_submit.success :: updateStoreOrder :: #1090 :: email: williampomroy03@gmail.com
